@@ -1,0 +1,17 @@
+.parrafo1{
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-bottom: 80px;
+
+    border: 30px solid red;
+    padding: 40px;
+}
+
+.parrafo2{
+    height: 100px;
+    width: 100px;
+    border: 30px solid red;/*mira el overflow*/
+    /*overflow: hidden;*/
+    overflow: auto;
+}
