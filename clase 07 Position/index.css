@@ -1,0 +1,54 @@
+.cuadrado{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+}
+
+.c-1{
+    background-color: blue;
+}
+
+.c-2{
+    background-color: green;
+    position: relative;
+    top: 200px;
+    left: 200px;
+}
+
+.c-3{
+    background-color: yellow;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+
+}
+
+.c-4{
+    background-color: pink;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
+
+.c-5{
+    background-color: violet;
+    overflow: auto;
+    width: 100%;
+    height: 50%;
+}
+
+.c-6{
+    background-color: red;
+    height: 100px;
+    position: sticky;
+    top: 0px;
+    left: 200px;
+
+}
+
+.c-7{
+    background-color: lavender;
+    height: 1000px;
+    display: block;
+
+}
