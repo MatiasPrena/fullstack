@@ -1,0 +1,64 @@
+body{
+    background-color: #390099;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Nanum Gothic Coding', monospace;
+    color: aliceblue;
+    
+}
+
+.contenedor-rojo{
+    background-color: #f34334;
+    height: 50%;
+    width: 50%;
+    display:flex;
+    justify-content: flex-end;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.contenedor-form{
+    display: flex;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    /*background-color: aquamarine;/*solo para verlo en vivo*/
+}
+
+.contenedor-imagen{
+    /*background-color: bisque;/*solo para verlo en vivo*/
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    
+    
+
+}
+
+img{
+    width: 65%;
+    height: 100%;
+    background-size: cover;
+}
+
+.contenedor-usuario{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.contenedor-contraseña{
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+.enviar{
+    margin-top: 20px;
+    
+}
+input{
+    border-radius: 5px;
+    border: none;
+}
