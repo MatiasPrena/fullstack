@@ -150,6 +150,10 @@ nav{
     flex-wrap: nowrap;
 }
 
+.lista-nav>li{
+    margin: 10px;
+}
+
 
 .Despliegue-secciones>ul{
     /*display: none;*/
