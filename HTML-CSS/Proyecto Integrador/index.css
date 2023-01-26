@@ -246,7 +246,7 @@ nav{
 }
 
 
-@media(max-width:632px){
+@media(max-width:1090px){
 
     .subcontainer{
         height: 200px;
@@ -264,7 +264,7 @@ nav{
     }
 
     .lista-nav>li{
-        margin: 80px;
+        margin-right: 80px;
     }
 }
 
