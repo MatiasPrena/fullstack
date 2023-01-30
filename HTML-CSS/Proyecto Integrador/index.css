@@ -152,6 +152,12 @@ nav{
     margin-top: 1.15%;
 }
 
+.Registrarse{
+    outline: none;
+    text-decoration: none;
+    color: white;
+}
+
 .Despliegue-secciones>ul{
     /*display: none;*/
     height: 0%;
@@ -223,12 +229,12 @@ nav{
 
 .DropD1-Ofertas{
     position: relative;
-    top: 500px;
+    top: 1300px;
 }
 
 .DropD2-mtto{
     position: relative;
-    top: 700px;
+    top: 1700px;
 }
 
 .login{
